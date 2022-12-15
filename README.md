@@ -1,2 +1,3 @@
-# Simulador Bancario
- Simulador de sistema bancario
+# Simulador Bancário
+
+ Simulador de sistema bancário desenvolvido para testar as funcionalidades do python
