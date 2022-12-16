@@ -36,6 +36,6 @@ Lista de tarefas:
 - [ ] Fazer reunião com o cliente
 - [ ] Receber o pagamento
 
- ![R2-D2_Droid](https://user-images.githubusercontent.com/120217375/208203686-55eb983c-779f-4bdd-97a6-fc4812e8c231.png)
- 
- [Visite meu Github](http://github.com/eduardocvitor)
+![Tree](https://user-images.githubusercontent.com/120217375/208204182-c6bf2698-c497-4f2e-a019-6539f3fd5d3d.png)
+
+[Visite meu Github](http://github.com/eduardocvitor)
