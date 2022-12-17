@@ -39,3 +39,15 @@ Lista de tarefas:
 ![Tree](https://user-images.githubusercontent.com/120217375/208204182-c6bf2698-c497-4f2e-a019-6539f3fd5d3d.png)
 
 [Visite meu Github](http://github.com/eduardocvitor)
+---
+TABELA:
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Carlos | 9
+2 | Ana | 8,5
+3 | Rico | 7
+
+Fim da tabela
+
+:chile
